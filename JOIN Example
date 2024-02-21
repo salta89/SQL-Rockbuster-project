@@ -1,4 +1,4 @@
-# SQL CTE Query to find top 5 customers and countries/cities they are based.
+# SQL JOIN Query to find top 5 customers and countries/cities they are based.
 	SELECT A. first_name,	
 		   A. last_name,
 		   A. customer_id,
