@@ -20,4 +20,5 @@ This data was created by Career Foundry online school. The dataset includes deta
 
 # Visualizations 
 ####
-The visualizations for this project were created in Tableau Public and may be viewed here
+The visualizations for this project were created in Tableau Public and may be viewed [here] (https://public.tableau.com/app/profile/saltanat.tulegabylova/viz/Mapping_17006855962460/Story1).
+
