@@ -1,4 +1,4 @@
-# SQL CTE Query to find the average amount paid by the top 5 customers.
+# SQL CTE Query to find top 5 customers and countries/cities they are based.
 	SELECT A. first_name,	
 		   A. last_name,
 		   A. customer_id,
@@ -17,3 +17,5 @@
 		     C. city 
 	ORDER BY total_payment DESC	
 	LIMIT 5;	
+
+
